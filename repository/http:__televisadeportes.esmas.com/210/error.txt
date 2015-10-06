@@ -1,0 +1,31 @@
+***********************************************
+Start background process 
+
+Scan :2015-03-02
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-02.-urlFalsa
+
+Scan :2015-03-03
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-03.-urlFalsa
+
+Scan :2015-03-04
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-04.-urlFalsa
+
+Scan :2015-03-05
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-05.-urlFalsa
+
+Scan :2015-03-06
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-06.-urlFalsa
+
+Scan :2015-03-07
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-07.-urlFalsa
+
+Scan :2015-03-08
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-08.-urlFalsa
+
+Scan :2015-03-09
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-09.-urlFalsa
+
+Scan :2015-03-10
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-10.-urlFalsa
+***********************************************
+End process 

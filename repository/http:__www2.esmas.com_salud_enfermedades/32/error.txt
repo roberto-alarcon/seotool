@@ -1,0 +1,486 @@
+***********************************************
+Start background process 
+
+Scan :2013-10-01
+
+Scan :2013-10-02
+
+Scan :2013-10-03
+
+Scan :2013-10-04
+
+Scan :2013-10-05
+
+Scan :2013-10-06
+
+Scan :2013-10-07
+
+Scan :2013-10-08
+
+Scan :2013-10-09
+
+Scan :2013-10-10
+
+Scan :2013-10-11
+
+Scan :2013-10-12
+
+Scan :2013-10-13
+
+Scan :2013-10-14
+
+Scan :2013-10-15
+
+Scan :2013-10-16
+
+Scan :2013-10-17
+
+Scan :2013-10-18
+
+Scan :2013-10-19
+
+Scan :2013-10-20
+
+Scan :2013-10-21
+
+Scan :2013-10-22
+
+Scan :2013-10-23
+
+Scan :2013-10-24
+
+Scan :2013-10-25
+
+Scan :2013-10-26
+
+Scan :2013-10-27
+
+Scan :2013-10-27
+
+Scan :2013-10-28
+
+Scan :2013-10-29
+
+Scan :2013-10-30
+
+Scan :2013-10-31
+
+Scan :2013-11-01
+
+Scan :2013-11-02
+
+Scan :2013-11-03
+
+Scan :2013-11-04
+
+Scan :2013-11-05
+
+Scan :2013-11-06
+
+Scan :2013-11-07
+
+Scan :2013-11-08
+
+Scan :2013-11-09
+
+Scan :2013-11-10
+
+Scan :2013-11-11
+
+Scan :2013-11-12
+
+Scan :2013-11-13
+
+Scan :2013-11-14
+
+Scan :2013-11-15
+
+Scan :2013-11-16
+
+Scan :2013-11-17
+
+Scan :2013-11-18
+
+Scan :2013-11-19
+
+Scan :2013-11-20
+Crawling url: http://www2.esmas.com/salud/enfermedades/660546/diabetes-mellitus-tipo-1-guia-practica/
+Title : Diabetes Mellitus tipo 1: Guía práctica :: Salud ...
+Description : En el marco del Día Internacional de la Diabetes muy pocos dirigen su mirada al tipo 1 del padecimiento, el de niños y jóvenes ...
+Keywords : diabetes, mellitus, tipo 1, guía, práctica, jóvenes, niños ...
+Open database ...
+Url crawled....
+
+Scan :2013-11-21
+
+Scan :2013-11-22
+
+Scan :2013-11-23
+
+Scan :2013-11-24
+
+Scan :2013-11-25
+
+Scan :2013-11-26
+
+Scan :2013-11-27
+
+Scan :2013-11-28
+
+Scan :2013-11-29
+Crawling url: http://www2.esmas.com/salud/enfermedades/660233/dia-mundial-diabetes-2013-asignatura-pendiente/
+Title : Día Mundial de la Diabetes 2013, asignatura pendiente :: Salud ...
+Description : En nuestro país existen 6.4 millones de personas diagnosticadas con el padecimiento, ¿qué hacer para mejorar la vida del diabético?  ...
+Keywords : día, mundial, diabetes, padecimiento, enfermedad ...
+Open database ...
+Url crawled....
+
+Scan :2013-11-30
+
+Scan :2013-12-01
+
+Scan :2013-12-02
+
+Scan :2013-12-03
+
+Scan :2013-12-04
+
+Scan :2013-12-05
+
+Scan :2013-12-06
+
+Scan :2013-12-07
+
+Scan :2013-12-08
+
+Scan :2013-12-09
+
+Scan :2013-12-10
+
+Scan :2013-12-11
+
+Scan :2013-12-12
+Crawling url: http://www2.esmas.com/salud/enfermedades/669041/obesidad-infantil-que-hacer/
+Title : Obesidad infantil, ¿qué hacer? :: Salud ...
+Description : Un niño gordito, no es un niño sano. México es el primer lugar de obesidad infantil, el problema es grave ...
+Keywords : Obesidad, Infantil, Qué hacer, Niño, Gordito, Sano, México, Primer lugar, Obesidad infantil, problema, Grave, Sedentarismo, cáncer de colon, cirrosis, gota, Gastritis, Diabetes mellitus, Ansiedad, Inf ...
+Open database ...
+Url crawled....
+
+Scan :2013-12-13
+
+Scan :2013-12-14
+
+Scan :2013-12-15
+
+Scan :2013-12-16
+
+Scan :2013-12-17
+Crawling url: http://www2.esmas.com/salud/enfermedades/665790/dia-mundial-discapacidad-lesiones-medula-son-90-evitables/
+Title : Día de la discapacidad: Lesiones de médula, evitables :: Salud ...
+Description : Hoy se conmemora el Día de las Personas con Discapacidad, por lo que la OMS recordó que cada año 500 mil personas padecen algún tipo de lesión en la médula, de las cuales 90% son prevenibles y evitables ...
+Keywords : Día Mundial, Discapacidad, Evitables, Prevenibles, OMS, recordó, personas, padecen, médula, espinal, médula espinal ...
+Open database ...
+Url crawled....
+Crawling url: http://www2.esmas.com/salud/enfermedades/666571/callos-y-ojos-pescado/
+Title : Callos y ojos de pescado :: Salud ...
+Description : Son ocasionados por la fricción o presión constante contra la piel de los pies, la cual desarrolla una capa epidérmica extremadamente gruesa ...
+Keywords : callos y ojos de pescado, callos, ojos de pescado, ocasionados, fricción, piel, pies, capa epidérmica, gruesa, podólogo, pies, dolor, tensión, neuroma, expuestas, fricción, tejido, zapatos, tacón, est ...
+Open database ...
+Url crawled....
+
+Scan :2013-12-18
+Crawling url: http://www2.esmas.com/salud/enfermedades/669034/bulimia-tipos-signos-y-sintomas/
+Title : Bulimia: tipos, signos y síntomas :: Salud ...
+Description : Trastorno de la alimentación, de origen emocional, que puede volverse crónico, progresivo y mortal  ...
+Keywords : Bulimia, Tipos, Signos, Síntomas, Causas, Imagen, Distorsionada, Figura, Autoestima, Trastorno, Alimentación, Trastorno de la alimentación, Crónico, Progresivo, Mortal, Vómito, Laxante, Diurético, bul ...
+Open database ...
+Url crawled....
+Crawling url: http://www2.esmas.com/salud/enfermedades/668352/dengue-clasico-causas-y-sintomas/
+Title : ¡No me molestes mosquito!: Dengue clásico :: Salud ...
+Description : Se estima que, en la actualidad, unas 20 mil personas al año fallecen a causa de este virus que es transmitido por un mosquito ...
+Keywords : Dengue, Dengue clásico, causas, síntomas, actualidad, 20 mil personas, año, fallecen, virus, transmitido, mosquito, Salud, Infección, Contagio, Pandemia, Sistema Digestivo, Dolores, Náuseas, Vómitos,  ...
+Open database ...
+Url crawled....
+
+Scan :2013-12-19
+
+Scan :2013-12-20
+
+Scan :2013-12-21
+
+Scan :2013-12-22
+
+Scan :2013-12-23
+
+Scan :2013-12-24
+
+Scan :2013-12-25
+
+Scan :2013-12-26
+
+Scan :2013-12-27
+
+Scan :2013-12-28
+
+Scan :2013-12-29
+
+Scan :2013-12-30
+
+Scan :2013-12-31
+
+Scan :2014-01-01
+
+Scan :2014-01-02
+
+Scan :2014-01-03
+
+Scan :2014-01-04
+
+Scan :2014-01-05
+
+Scan :2014-01-06
+
+Scan :2014-01-07
+
+Scan :2014-01-08
+
+Scan :2014-01-09
+
+Scan :2014-01-10
+
+Scan :2014-01-11
+
+Scan :2014-01-12
+
+Scan :2014-01-13
+
+Scan :2014-01-14
+
+Scan :2014-01-15
+
+Scan :2014-01-16
+
+Scan :2014-01-17
+
+Scan :2014-01-18
+
+Scan :2014-01-19
+
+Scan :2014-01-20
+
+Scan :2014-01-21
+
+Scan :2014-01-22
+
+Scan :2014-01-23
+
+Scan :2014-01-24
+
+Scan :2014-01-25
+
+Scan :2014-01-26
+
+Scan :2014-01-27
+
+Scan :2014-01-28
+
+Scan :2014-01-29
+
+Scan :2014-01-30
+Crawling url: http://www2.esmas.com/salud/enfermedades/682162/ataque-cerebral/
+Title : Ataque cerebral, qué es, síntomas y factores de riesgo :: Salud ...
+Description : Conoce todo acerca de esta lesión cerebral ...
+Keywords : Cerebro, Cerebral, Lesión, Síntomas, Ataque, Apoplejía, Derrame, Isquémico, Hemorrágico, Hipertnsión, Circulación, Miniderrames, Oxígeno, Oxigenación, Presión Sanguínea, Presión, Sanguínea ...
+Open database ...
+Url crawled....
+
+Scan :2014-01-31
+Crawling url: http://www2.esmas.com/salud/enfermedades/682170/cancer-cervical/
+Title : Cáncer Cervical, síntomas, prevención y tratamiento :: Salud ...
+Description : El cáncer cervical es un tipo de cáncer tratable completamente ...
+Keywords : Cáncer, Tipos, Útero, Diagnóstico, Enfermedad, Virus, Papiloma, Papiloma Humano, Papanicolau, Pélvico,Vacuna, Periodos, Menstruales, Períodos Menstruales, Fatiga, Dolor ...
+Open database ...
+Url crawled....
+
+Scan :2014-02-01
+
+Scan :2014-02-02
+
+Scan :2014-02-03
+
+Scan :2014-02-04
+
+Scan :2014-02-05
+
+Scan :2014-02-06
+
+Scan :2014-02-07
+
+Scan :2014-02-08
+
+Scan :2014-02-09
+
+Scan :2014-02-10
+
+Scan :2014-02-11
+Crawling url: http://www2.esmas.com/salud/enfermedades/687329/cardiopatia-congenita/
+Title : Cardiopatía Congénita :: Salud ...
+Description : La Cardiopatía Congénita es una enfermedad que afecta principalmente a los bebés. ...
+Keywords : Cardiopatía congénita, Congénita, Cardiopatía, Enfermedad, Corazón, Bebés, Infancia, Nacimiento, Muerte, Muertes, Angioplastia, Valvuloplastia, Técnica de oclusión, Cirugía, Laboratorio de cateterismo ...
+Open database ...
+Url crawled....
+
+Scan :2014-02-12
+
+Scan :2014-02-13
+
+Scan :2014-02-14
+
+Scan :2014-02-15
+
+Scan :2014-02-16
+
+Scan :2014-02-17
+
+Scan :2014-02-18
+Crawling url: http://www2.esmas.com/salud/enfermedades/664542/enfermedades-respiratorias-tips-y-medidas-preventivas/
+Title : Principales enfermedades respiratorias: tips y medidas preventivas :: Salud ...
+Description : Son muy comunes en esta temporada y, aunque suelen no ser graves, sí afectan nuestra calidad de vida ...
+Keywords : Enfermedades, Respiratorias, Tips, Medidas, Preventivas, Respiratorias, Comunes, Temporada, Graves, Afectan Calidad, Vida, Resfriado, Gripa, Pulmonía, Microorganismo, Tos, Fiebre, Dolor ...
+Open database ...
+Url crawled....
+Crawling url: http://www2.esmas.com/salud/enfermedades/666953/tabaquismo-adiccion-mata/
+Title : Tabaquismo, adicción que mata: ¿por qué es malo cigarro? :: Salud ...
+Description : Casi 6 millones de personas mueren  cada año a causa del consumo del tabaco, por lo que es un severo problema de salud ...
+Keywords : Tabaquismo, Adicción, Mata, Malo, Cigarro, Mueren, Problema, Enfermedad, Consumo, Tabaco, Salud, Nicotina, Tóxicos, Sustancias Químicas, Combustible, Cáncer, EPOC, Enfermedad Pulmonar Crónica, Dañinas ...
+Open database ...
+Url crawled....
+
+Scan :2014-02-19
+
+Scan :2014-02-20
+
+Scan :2014-02-21
+
+Scan :2014-02-22
+
+Scan :2014-02-23
+
+Scan :2014-02-24
+
+Scan :2014-02-25
+
+Scan :2014-02-26
+
+Scan :2014-02-27
+
+Scan :2014-02-28
+
+Scan :2014-03-01
+
+Scan :2014-03-02
+
+Scan :2014-03-03
+
+Scan :2014-03-04
+
+Scan :2014-03-05
+
+Scan :2014-03-06
+
+Scan :2014-03-07
+
+Scan :2014-03-08
+
+Scan :2014-03-09
+
+Scan :2014-03-10
+
+Scan :2014-03-11
+
+Scan :2014-03-12
+
+Scan :2014-03-13
+
+Scan :2014-03-14
+
+Scan :2014-03-15
+
+Scan :2014-03-16
+
+Scan :2014-03-17
+
+Scan :2014-03-18
+
+Scan :2014-03-19
+Crawling url: http://www2.esmas.com/salud/enfermedades/700508/mielofibrosis-enfermedad-rara-y-mortal/
+Title : Mielofibrosis, enfermedad rara y mortal :: Salud ...
+Description : El gran desconocimiento de las enfermedades raras, como la mielofibrosis, impide que el paciente reciba tratamientos adecuados para mejorar su calidad de vida ante esta enfermermedad progresiva, incurable y mortal ...
+Keywords : Mielofibrosis, Enfermedad Rara, Enfermedad, Rara, Mortal, Desconocimiento, Calidad de vida, Progresiva, Vida, Muerte, Mortal, Incurable, Cáncer, Tumor Maligno, Sangre, Glóbulos Rojos, Glóbulos Blancos ...
+Open database ...
+Url crawled....
+
+Scan :2014-03-20
+
+Scan :2014-03-21
+
+Scan :2014-03-22
+
+Scan :2014-03-23
+
+Scan :2014-03-24
+Crawling url: http://www2.esmas.com/salud/enfermedades/700998/sindrome-prader-willi/
+Title : Síndrome de Prader-Willi :: Salud ...
+Description : Conoce más acerca de esta enfermedad que pocas personas padecen ...
+Keywords : Sindrome De Prader Willi Tratamiento, Sindrome De Prader Willi Bebes, Sindrome De Prader Willi Caracteristicas, Sindrome De Prader Willi Pdf, Sindrome De Prader Willi, Sindrome De Prader, Prader Willi ...
+Open database ...
+Url crawled....
+
+Scan :2014-03-25
+Crawling url: http://www2.esmas.com/salud/enfermedades/702624/insensibilidad-congenita-al-dolor/
+Title : Insensibilidad congénita al dolor :: Salud ...
+Description : La enfermedad que no percibe el dolor, considerada una enfermedad hereditaria ...
+Keywords : Insensibilidad, Congénita, Dolor, Enfermedad, Hereditaria, Autonómicas, Desorden genético, Sensibilidad, Temperatura, Metabolismo de catecolaminas, Mielínicas, Ameielínicas, Fibras Autonómicas, Endorf ...
+Open database ...
+Url crawled....
+Crawling url: http://www2.esmas.com/salud/enfermedades/702112/causas-y-sintomas-del-sindrome-gilles-tourette/
+Title : Causas y síntomas del síndrome Gilles de la Tourette :: Salud ...
+Description : Conoce las características principales de esta enfermedad de tics nerviosos ...
+Keywords : Sintomas Del Sindrome De Tourette En Niños, Sintomas Del Trastorno De Tourette, Sintomas Del Sindorme De Tourette, Sindrome Gilles De Latourette, Sindrome Gilles De Tourette Pdf, Gilles De Latourette, ...
+Open database ...
+Url crawled....
+
+Scan :2014-03-26
+Crawling url: http://www2.esmas.com/salud/enfermedades/703042/esofago-barrett-o-sindrome-barrett/
+Title : Esófago de Barrett o Síndrome de Barrett :: Salud ...
+Description : Enfermedad del esófago relacionada con el cáncer de esófago ...
+Keywords : Esofago De Barrett Sindrome De Barrett, Enfermedad Por Reflujo Gastroesofagico, Esofago De Barrett, Sindrome De Barrett, Enfermedad De Barrett, Cancer De Esofago, Reflujo Gastroesofagico, Reflujo Gast ...
+Open database ...
+Url crawled....
+
+Scan :2014-03-27
+Crawling url: http://www2.esmas.com/salud/enfermedades/703564/enfermedad-dent-problemas-rinones/
+Title : Enfermedad de Dent: problemas en los riñones :: Salud ...
+Description : Descubre una de las enfermedades más raras de los riñones ...
+Keywords : Enfermedad De Dent Nacho, Enfermedad De Dent Tratamiento, Enfermedad De Dent, Problemas En Los Riñones, Enfermedad De Los Riñones, Enfermedades Raras, Riñones Enfermos, Fallo Renal, Calculos Renales,  ...
+Open database ...
+Url crawled....
+
+Scan :2014-03-28
+
+Scan :2014-03-29
+
+Scan :2014-03-30
+
+Scan :2014-03-31
+Crawling url: http://www2.esmas.com/salud/enfermedades/704771/histiocitosis-celulas-langerhans-o-histiocitosis-x/
+Title : Histiocitosis de células de Langerhans o Histiocitosis X :: Salud ...
+Description : Conoce más acerca de esta rara enfermedad que afecta a los huesos ...
+Keywords : Histiocitosis De Celulas De Langerhans, Enfermedad De Abt-Letterer-Siwe, Enfermedad De Hand-Schüller-Christian, Histiocitosis De Langerhans, Enfermedades Raras, Enfermedad Rara, Medula Osea, Histiocit ...
+Open database ...
+Url crawled....
+
+Scan :2014-04-01
+***********************************************
+End process 

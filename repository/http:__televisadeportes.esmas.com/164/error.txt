@@ -1,0 +1,231 @@
+***********************************************
+Start background process 
+
+Scan :2014-12-01
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-01.-urlFalsa
+
+Scan :2014-12-02
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-02.-urlFalsa
+
+Scan :2014-12-03
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-03.-urlFalsa
+Crawling url: http://televisadeportes.esmas.com/la-jugada-transmedia/fotos/chicharito-y-un-cambio-merengue-de-elite-/68414
+Title : Chicharito y un cambio merengue de élite  ...
+Description : Revive parte de la estancia de Chicharito en el equipo más importante del mundo. ...
+Keywords : Televisa Deportes, Javier Hernández, Chicharito, Real Madrid, La Jugada, La Jugada Transmedia, Liga BBVA ...
+Open database ...
+Url crawled....
+
+Scan :2014-12-04
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-04.-urlFalsa
+
+Scan :2014-12-05
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-05.-urlFalsa
+
+Scan :2014-12-06
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-06.-urlFalsa
+
+Scan :2014-12-07
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-07.-urlFalsa
+
+Scan :2014-12-08
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-08.-urlFalsa
+
+Scan :2014-12-09
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-09.-urlFalsa
+
+Scan :2014-12-10
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-10.-urlFalsa
+
+Scan :2014-12-11
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-11.-urlFalsa
+
+Scan :2014-12-12
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-12.-urlFalsa
+
+Scan :2014-12-13
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-13.-urlFalsa
+
+Scan :2014-12-14
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-14.-urlFalsa
+
+Scan :2014-12-15
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-15.-urlFalsa
+
+Scan :2014-12-16
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-16.-urlFalsa
+
+Scan :2014-12-17
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-17.-urlFalsa
+
+Scan :2014-12-18
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-18.-urlFalsa
+
+Scan :2014-12-19
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-19.-urlFalsa
+Crawling url: http://televisadeportes.esmas.com/la-jugada-transmedia/fotos/el-lado-sexy-de-la-nfl/68789
+Title : El lado sexy de la NFL ...
+Description : Las animadoras más bellas de la National Football League ...
+Keywords : La jugada, La Jugada Transemdia, Televisa Deportes, NFL ...
+Open database ...
+Url crawled....
+
+Scan :2014-12-20
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-20.-urlFalsa
+
+Scan :2014-12-21
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-21.-urlFalsa
+
+Scan :2014-12-22
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-22.-urlFalsa
+
+Scan :2014-12-23
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-23.-urlFalsa
+
+Scan :2014-12-24
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-24.-urlFalsa
+
+Scan :2014-12-25
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-25.-urlFalsa
+
+Scan :2014-12-26
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-26.-urlFalsa
+
+Scan :2014-12-27
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-27.-urlFalsa
+
+Scan :2014-12-28
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-28.-urlFalsa
+
+Scan :2014-12-29
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-29.-urlFalsa
+
+Scan :2014-12-30
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-30.-urlFalsa
+
+Scan :2014-12-31
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-12-31.-urlFalsa
+
+Scan :2015-01-01
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-01.-urlFalsa
+
+Scan :2015-01-02
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-02.-urlFalsa
+
+Scan :2015-01-03
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-03.-urlFalsa
+
+Scan :2015-01-04
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-04.-urlFalsa
+
+Scan :2015-01-05
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-05.-urlFalsa
+
+Scan :2015-01-06
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-06.-urlFalsa
+
+Scan :2015-01-07
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-07.-urlFalsa
+
+Scan :2015-01-08
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-08.-urlFalsa
+
+Scan :2015-01-09
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-09.-urlFalsa
+
+Scan :2015-01-10
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-10.-urlFalsa
+
+Scan :2015-01-11
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-11.-urlFalsa
+
+Scan :2015-01-12
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-12.-urlFalsa
+
+Scan :2015-01-13
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-13.-urlFalsa
+Crawling url: http://televisadeportes.esmas.com/la-jugada-transmedia/td-book/fotos/fotos-marisol-tdbook-2015/69280
+Title : 
+		Fotos Marisol TDBook 2015	 ...
+Description : Inicia el año con Marisol Gonzaléz  ...
+Keywords : TDbook, agenda, agenda deportiva, Televisa deportes, bellezas de televisa deportes, la jugada, salud, ejercicio, nutrición, rutina , marisol, marisol gonzalez, tdbook 2015,  ...
+Open database ...
+Url crawled....
+Crawling url: http://televisadeportes.esmas.com/la-jugada-transmedia/td-book/fotos/gina-holguin-febrero-tdbook/69116
+Title : 
+		Gina Holguín Febrero TDBook	 ...
+Description : Estar bien es cosa de todos los días. ...
+Keywords : Gina Holguin, gina, febrero, agenda tdbook, TDBook, la jugada, televisa deportes, bellezas, bellezas de televisa  deportes ...
+Open database ...
+Url crawled....
+Crawling url: http://televisadeportes.esmas.com/la-jugada-transmedia/fotos/fiorella-castillo-la-diosa-del-futbol-argentino/69295
+Title : Fiorella Castillo, la diosa del futbol argentino ...
+Description : Fiorella Castillo, la diosa del futbol argentino ...
+Keywords : Fiorella Castillo, Futbol Argentino ...
+Open database ...
+Url crawled....
+
+Scan :2015-01-14
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-14.-urlFalsa
+
+Scan :2015-01-15
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-15.-urlFalsa
+
+Scan :2015-01-16
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-16.-urlFalsa
+Crawling url: http://televisadeportes.esmas.com/video/la-jugada-transmedia/la-jugada/286401/presentacion-del-tdbook-2015/
+Title : Presentación del TDBook 2015 :: La Jugada ...
+Description : Revive el detrás de cámaras del lanzamiento oficial del TDBook 2015 ...
+Keywords : La Jugada, La Jugada Transmedia, Televisa Deportes, TDBook 2015 ...
+Open database ...
+Url crawled....
+
+Scan :2015-01-17
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-17.-urlFalsa
+
+Scan :2015-01-18
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-18.-urlFalsa
+
+Scan :2015-01-19
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-19.-urlFalsa
+
+Scan :2015-01-20
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-20.-urlFalsa
+
+Scan :2015-01-21
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-21.-urlFalsa
+
+Scan :2015-01-22
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-22.-urlFalsa
+
+Scan :2015-01-23
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-23.-urlFalsa
+
+Scan :2015-01-24
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-24.-urlFalsa
+
+Scan :2015-01-25
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-25.-urlFalsa
+
+Scan :2015-01-26
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-26.-urlFalsa
+
+Scan :2015-01-27
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-27.-urlFalsa
+
+Scan :2015-01-28
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-28.-urlFalsa
+
+Scan :2015-01-29
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-29.-urlFalsa
+
+Scan :2015-01-30
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-30.-urlFalsa
+
+Scan :2015-01-31
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-01-31.-urlFalsa
+
+Scan :2015-02-01
+http://googleak.esmas.com/search?q=site:http://televisadeportes.esmas.com&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-02-01.-urlFalsa
+***********************************************
+End process 

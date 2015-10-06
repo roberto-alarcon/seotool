@@ -1,0 +1,88 @@
+***********************************************
+Start background process 
+
+Scan :2015-03-18
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-18.-urlFalsa
+
+Scan :2015-03-19
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-19.-urlFalsa
+
+Scan :2015-03-20
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-20.-urlFalsa
+
+Scan :2015-03-21
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-21.-urlFalsa
+
+Scan :2015-03-22
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-22.-urlFalsa
+
+Scan :2015-03-23
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-23.-urlFalsa
+
+Scan :2015-03-24
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-24.-urlFalsa
+
+Scan :2015-03-25
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-25.-urlFalsa
+
+Scan :2015-03-26
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-26.-urlFalsa
+
+Scan :2015-03-27
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-27.-urlFalsa
+
+Scan :2015-03-28
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-28.-urlFalsa
+
+Scan :2015-03-29
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-29.-urlFalsa
+
+Scan :2015-03-30
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-30.-urlFalsa
+
+Scan :2015-03-31
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-03-31.-urlFalsa
+
+Scan :2015-04-01
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-04-01.-urlFalsa
+
+Scan :2015-04-02
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-04-02.-urlFalsa
+
+Scan :2015-04-03
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-04-03.-urlFalsa
+
+Scan :2015-04-04
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-04-04.-urlFalsa
+
+Scan :2015-04-05
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-04-05.-urlFalsa
+
+Scan :2015-04-06
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-04-06.-urlFalsa
+
+Scan :2015-04-07
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-04-07.-urlFalsa
+
+Scan :2015-04-08
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-04-08.-urlFalsa
+
+Scan :2015-04-09
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-04-09.-urlFalsa
+
+Scan :2015-04-10
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-04-10.-urlFalsa
+
+Scan :2015-04-11
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-04-11.-urlFalsa
+
+Scan :2015-04-12
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-04-12.-urlFalsa
+
+Scan :2015-04-13
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-04-13.-urlFalsa
+
+Scan :2015-04-14
+http://googleak.esmas.com/search?q=site:http://television.televisa.com/fotos&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2015-04-14.-urlFalsa
+***********************************************
+End process 

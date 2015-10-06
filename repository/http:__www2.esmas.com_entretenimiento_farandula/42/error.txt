@@ -1,0 +1,13 @@
+***********************************************
+Start background process 
+
+Scan :2014-04-01
+http://googleak.esmas.com/search?q=site:http://www2.esmas.com/entretenimiento/farandula&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-04-01
+
+Scan :2014-04-02
+http://googleak.esmas.com/search?q=site:http://www2.esmas.com/entretenimiento/farandula&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-04-02
+
+Scan :2014-04-03
+http://googleak.esmas.com/search?q=site:http://www2.esmas.com/entretenimiento/farandula&btnG=Google+Search&access=p&client=pgeneral&output=xml_no_dtd&proxystylesheet=sitemap_td&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=default_collection&entqr=1&entqrm=0&sort=date%3AD%3AS%3Ad1&getfields=*&num=100&requiredfields=pubDate:2014-04-03
+***********************************************
+End process 

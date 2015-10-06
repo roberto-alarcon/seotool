@@ -1,0 +1,8 @@
+
+Notice: Undefined offset: 2 in /home/seoTool/libs/script.crawlByDateBackground.php on line 12
+
+Warning: fopen(/home/seoTool/repository//http:__www2.esmas.com_entretenimiento_musica/_reqhttp.log): failed to open stream: No such file or directory in /home/seoTool/libs/script.crawlByDateBackground.php on line 24
+
+Warning: fgets() expects parameter 1 to be resource, boolean given in /home/seoTool/libs/script.crawlByDateBackground.php on line 25
+
+Warning: fclose() expects parameter 1 to be resource, boolean given in /home/seoTool/libs/script.crawlByDateBackground.php on line 26
